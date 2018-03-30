@@ -1,3 +1,7 @@
+import java.util.concurrent.locks.ReentrantLock;
+
+import sun.misc.Lock;
+
 /**
  * An accumulator for a sum.
  */
